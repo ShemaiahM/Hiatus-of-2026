@@ -1,14 +1,14 @@
 # Hiatus-of- July through September 2026
 
-> 🛠️ **Status Update:** Apologies for no commits for 10 weeks+. My brain chemistry decided to have a fallout. Turns out, Depression, Anxiety & other mental health issues are harder to debug than bad JavaScript... Thanks for your patience while I recompile 🫠
+> 🛠️ **Status Update:** Apologies for no commits for 10 weeks+. My brainhttps://github.com/ShemaiahM/Hiatus-of-2026/settings chemistry decided to have a fallout. Turns out, Depression, Anxiety & other mental health issues are harder to debug than bad JavaScript... Thanks for your patience while I recompile 🫠
 
 git commit -m "fixed bug where I panicked for no reason" (Failed)
 
-git commit -m "pretending everything is fine"
+git commit -m "pretending everything is fine" (Pending)
 
 
 ## Mental Health
-> Apologies Everyone. <strong> Depression Anxiety & other Mental Health Illnesses </strong>, are rather sardonic, black comedy if you will allow me to state. One feels Crestfallen, Dolorous & forever running from what cannot be attained in a healthy & <em>"normal"</em> mind. This Year has been quite bad, Physical Health Issues & Mental Health Issues.
+> Apologies Everyone. <strong> Depression Anxiety & other Mental Health Illnesses </strong>, are rather sardonic, black comedy if you will allow me to state. One feels Crestfallen, Dolorous & forever running from what cannot be attained in a healthy & <em>"normal"</em> mind, so for one broken, it's a darklysardonic game of cat and mouse. This Year has been quite comically hellish for, My Physical & Mental Health.
 
 
 #### The Return :)
